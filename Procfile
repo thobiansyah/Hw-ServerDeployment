@@ -1,1 +1,1 @@
-web: ./bin/Hw-ServerDeployment
+web: bin/Hw-ServerDeployment

@@ -11,4 +11,4 @@ build: install
 	@go build -v .
 
 run: install
-	@go run main.go
+	@go run main.go 
