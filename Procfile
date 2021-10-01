@@ -1,1 +1,1 @@
-web: ./bin/Hw-ServerDeployment
+web: bin/belajar-golang-httprouter
