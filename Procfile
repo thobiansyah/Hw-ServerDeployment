@@ -1,1 +1,1 @@
-web: bin/belajar-golang-httprouter
+web: ./bin/belajar-golang-httprouter
