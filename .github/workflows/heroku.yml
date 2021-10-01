@@ -13,5 +13,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12 # This is the action
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "hw-server-deploy" #Must be unique in Heroku
-          heroku_email: "qito25@gmail.com"
+          heroku_app_name: "Hw-ServerDeployment" #Must be unique in Heroku
+          heroku_email: "thobiansyah1@gmail.com"
